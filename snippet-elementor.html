@@ -50,6 +50,9 @@
   .zkr-plogo.zkr-plogo-ta{ width:26px; height:26px; }
   .zkr-sum{ display:flex; align-items:center; justify-content:space-between; gap:14px; padding:15px 20px; }
   .zkr-sumL{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; min-width:0; }
+  /* desktop: skupiny sú "priehľadné" (display:contents) = jeden riadok ako doteraz;
+     na mobile sa z nich stanú 2 pevné riadky (titul / hviezdy+čísla) */
+  .zkr-sumT,.zkr-sumS{ display:contents; }
   .zkr-sumL .zkr-plogo{ width:23px; height:23px; }
   .zkr-sumL .zkr-pname{ font-size:18px; font-weight:700; }
   .zkr-sumL .zkr-grade{ font-size:18px; font-weight:700; }
@@ -158,7 +161,9 @@
     .zkr-wrap{ --zkr-vis:1; }
     .zkr-tab{ font-size:15px; padding:14px 11px 12px; }
     .zkr-sum{ flex-direction:column; align-items:center; text-align:center; gap:12px; padding:16px 14px; }
-    .zkr-sumL{ justify-content:center; row-gap:6px; }
+    /* 2 pevné riadky ako na Tripadvisor tabe: [logo · názov · Vynikajúce] / [hviezdy · 4,7 | N recenzií] */
+    .zkr-sumL{ flex-direction:column; align-items:center; gap:8px; }
+    .zkr-sumT,.zkr-sumS{ display:flex; align-items:center; justify-content:center; gap:9px; flex-wrap:wrap; }
     .zkr-write{ padding:10px 22px; }
     .zkr-body{ flex-direction:column; gap:0; }
     .zkr-thumb{ display:none; }
@@ -168,7 +173,8 @@
     .zkr-text.zkr-exp{ max-height:none; }
     .zkr-track{ align-items:flex-start; }
     .zkr-inner{ height:auto; }
-    .zkr-nav{ width:30px; height:30px; margin-top:-15px; }
+    .zkr-nav{ width:30px; height:30px; margin-top:-15px;
+      transition:background .2s ease, opacity .2s ease, top .3s ease; }
     .zkr-prev{ left:2px; } .zkr-next{ right:2px; }
   }
 </style>
@@ -378,28 +384,38 @@
       var h='';
       if(cur==='all'){
         var m=META.total;
-        h='<span class="zkr-grade">'+grade(m.rating)+'</span>'+starsHtml('google',m.rating,21)+
+        h='<span class="zkr-sumT"><span class="zkr-grade">'+grade(m.rating)+'</span></span>'+
+          '<span class="zkr-sumS">'+starsHtml('google',m.rating,21)+
           '<span class="zkr-score">'+score(m.rating)+'</span><span class="zkr-sep">|</span>'+
-          '<span class="zkr-count">'+nfmt(m.count)+' '+T.reviews+'</span>';
+          '<span class="zkr-count">'+nfmt(m.count)+' '+T.reviews+'</span></span>';
         writeB.href=META.google.write;
       } else {
         var m2=META[cur], r5=cur==='booking'?m2.rating/2:m2.rating,
             sc=cur==='booking'?score(m2.rating):score(m2.rating);
-        h='<span class="zkr-plogo'+(cur==='tripadvisor'?' zkr-plogo-ta':'')+'">'+LOGO[cur]+'</span><span class="zkr-pname">'+
+        h='<span class="zkr-sumT"><span class="zkr-plogo'+(cur==='tripadvisor'?' zkr-plogo-ta':'')+'">'+LOGO[cur]+'</span><span class="zkr-pname">'+
           (cur==='google'?'Google':cur==='booking'?'Booking':'Tripadvisor')+'</span>'+
-          '<span class="zkr-grade">'+grade(r5)+'</span>'+starsHtml(cur,r5,21)+
+          '<span class="zkr-grade">'+grade(r5)+'</span></span>'+
+          '<span class="zkr-sumS">'+starsHtml(cur,r5,21)+
           '<span class="zkr-score">'+sc+'</span><span class="zkr-sep">|</span>'+
-          '<span class="zkr-count">'+nfmt(m2.count)+' '+T.reviews+'</span>';
+          '<span class="zkr-count">'+nfmt(m2.count)+' '+T.reviews+'</span></span>';
         writeB.href=m2.write;
       }
       sumL.innerHTML=h; writeB.textContent=T.write;
     }
     function visCount(){ var w=window.innerWidth; return w<=600?1:(w<=1024?2:3); }
     function maxIndex(){ return Math.max(0,N-vis); }
+    // mobil (1 karta): šípky centrovať na AKTUÁLNU kartu, nie na 50 % tracku
+    // (track je vysoký ako najvyššia karta zo všetkých → pri krátkej recenzii šípka "utekala" dole)
+    function navPos(){ var t=0;
+      if(vis===1){ var it=track.children[index], inner=it&&it.querySelector('.zkr-inner');
+        if(inner) t=inner.offsetHeight/2; }
+      prev.style.top=t?t+'px':''; next.style.top=t?t+'px':'';
+    }
     function apply(anim){ if(anim) track.classList.remove('zkr-nt'); else track.classList.add('zkr-nt');
       wrap.style.setProperty('--zkr-i',index); if(!anim) void track.offsetWidth;
       prev.classList.toggle('zkr-off',index<=0);
       next.classList.toggle('zkr-off',index>=maxIndex());
+      navPos();
     }
     function rebuild(){
       var ids=TABS[cur]||[]; N=ids.length; index=0;
@@ -413,6 +429,8 @@
       animating=true; index=nx; apply(true); setTimeout(function(){ animating=false; },380); }
     next.addEventListener('click',function(){ go(1); });
     prev.addEventListener('click',function(){ go(-1); });
+    // "Čítaj viac"/"Skryť" mení výšku karty → prepočítať pozíciu šípok
+    track.addEventListener('click',function(){ setTimeout(navPos,0); });
     function play(){ stop(); timer=setInterval(function(){
       if(index>=maxIndex()){ stop(); return; } go(1); },6000); }
     function stop(){ if(timer){ clearInterval(timer); timer=null; } }
@@ -424,10 +442,10 @@
     var rt; window.addEventListener('resize',function(){ clearTimeout(rt); rt=setTimeout(function(){
       var nv=visCount(); if(nv!==vis){ vis=nv; wrap.style.setProperty('--zkr-vis',vis);
         if(index>maxIndex()) index=maxIndex(); apply(false); }
-      Array.prototype.forEach.call(track.children,function(c){ c._fit&&c._fit(); }); },150); });
+      Array.prototype.forEach.call(track.children,function(c){ c._fit&&c._fit(); }); navPos(); },150); });
     summary(); rebuild();
     if(document.fonts&&document.fonts.ready){ document.fonts.ready.then(function(){
-      Array.prototype.forEach.call(track.children,function(c){ c._fit&&c._fit(); }); }); }
+      Array.prototype.forEach.call(track.children,function(c){ c._fit&&c._fit(); }); navPos(); }); }
     play();
   }
   function start(){ Array.prototype.forEach.call(document.querySelectorAll('.zkr-wrap'),initWidget); }
