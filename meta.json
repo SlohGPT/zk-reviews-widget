@@ -1,12 +1,12 @@
 {
  "google": {
   "rating": 4.7,
-  "count": 987,
+  "count": 990,
   "write": "https://search.google.com/local/writereview?placeid=ChIJn0vM59U-a0cRGGfFsJDDbeY"
  },
  "booking": {
   "rating": 9.4,
-  "count": 883,
+  "count": 887,
   "write": "https://www.booking.com/hotel/sk/zlaty-klucik.html"
  },
  "tripadvisor": {
@@ -16,6 +16,6 @@
  },
  "total": {
   "rating": 4.7,
-  "count": 1970
+  "count": 1977
  }
 }
