@@ -1,6 +1,87 @@
 [
  {
   "source": "booking",
+  "name": "Jens",
+  "location": "Germany",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2026-09-26T20:57:16.000Z",
+  "text": "Super Service, sehr sauber, sehr gutes Essen.",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Katarína",
+  "location": "Slovakia",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2026-09-24T19:16:05.000Z",
+  "text": "Pekné ubytovanie,milý personál,celková spokojnosť",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Alexandra",
+  "location": "Germany",
+  "avatar": null,
+  "rating": 4.5,
+  "rating10": 9,
+  "time": "2026-09-24T05:07:49.000Z",
+  "text": "die Lage vom Hotel Golden Key ist wnderschön auf einem Hügel gelegen mit Blick auf das Schloss von Nitra, das Personal ist sehr freundlich und hilfsbereich, die Zimmer sind groß, schön eingerichtet und bequem. Alles super",
+  "images": []
+ },
+ {
+  "source": "google",
+  "name": "Werner Zumsteg",
+  "location": null,
+  "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUimZW4rXpuf7k04Zgo7ZKe3X4_6HWpyhiZPl89-0WkuELihrg=s1920-c-rp-mo-ba12-br100",
+  "rating": 5,
+  "time": "2026-09-23T08:52:39.208Z",
+  "text": "",
+  "images": [
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmPapXtKhbFLfaq50KKXghibudFrcoF8nTm3uGByd_kt5pzuR6i7zAwqCXEYQiJTM0l0jsk0Xi0mbAmnmzK4V7KNGOSMbsS4e_IcKuPwpRS2My0VRfcLZMNKgu_OgWSONdqyqXGf5KA0r87s=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmNDFAsskRZXW_7kYlZ9wv4INJXUOG2Gz1OtfW221FN7XjHX4Hfbx8jAW5n9D2RVNoIMVnOIYhuwmy-zW4b2MhpXcsoIfQdhkirXg-53Rx6vXAYuAgPqu-eXr3EsxvjWbAHKNvCMlCp8HWBh=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMV42dQpC2Lnq4aF93SbVODOI-cid-UErU1xKgbTOTqSQje70fgRRDffBjV_myg3meeFJ92i62KRxdvGKGM3T-Qr-bn9cdsYdqaHOYR4Jv8qSu1t4wE3RImCEeANTJLDLgJWbG53HCs-VFs=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmP-P7m-KDkDiwSRWYY35Wey8eDbUHmG3tC5ZMl9rOCNHsd_WqIvWpQ9nIzMvUXMo8oPvis0W4KOBObIbVEOYAESOKK3YxSMD-8Gmb_n2b8ihCWrT5ay0prr-fFp4uvcjIkJoubk_1LCg9ER=k-no"
+  ]
+ },
+ {
+  "source": "booking",
+  "name": "Katarzyna",
+  "location": "Poland",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2026-09-22T21:24:15.000Z",
+  "text": "A fantastic hotel located on the hills surrounding Nitra. The room was very spacious with a veranda, well equipped and elegant. Room service and the whole personel in general was trully outstanding. The breakfast had everything that we could wish for. The parking was free of charge and we got delicious gifts upon check-out. We travel around the world a lot and we can certainly say that the Golden Key hotel is on our top list so far.",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Natalie",
+  "location": "Australia",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2026-09-22T08:20:25.000Z",
+  "text": "It had great design, very helpful staff and state of the art facilities. The quality of food and dining experience was superb. A lovely place to stay with a great wellness area.",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Patrik",
+  "location": "Slovakia",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2026-09-21T19:53:32.000Z",
+  "text": "Pohodlné tvrdé matrace, atmosféra hotela, lokalita, izby, raňajky",
+  "images": []
+ },
+ {
+  "source": "booking",
   "name": "Petronela",
   "location": "Slovakia",
   "avatar": null,
@@ -131,6 +212,28 @@
  },
  {
   "source": "booking",
+  "name": "Ursula",
+  "location": "Austria",
+  "avatar": null,
+  "rating": 4.0,
+  "rating10": 8,
+  "time": "2026-08-11T11:12:04.000Z",
+  "text": "Tolle Aussicht von der Terrasse auf die Burg und die Hügel von Nitra. Großzügige Zimmer, voller Komfort, sauber. Gute internationale Küche.",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Dirk",
+  "location": "Germany",
+  "avatar": null,
+  "rating": 4.0,
+  "rating10": 8,
+  "time": "2026-08-07T03:54:42.000Z",
+  "text": "Sehr schönes Hotel, sehr gutes Frühstück, sehr schöne Zimmer mit Terrasse und Kaffeemaschine",
+  "images": []
+ },
+ {
+  "source": "booking",
   "name": "Dmitrii",
   "location": "Slovakia",
   "avatar": null,
@@ -164,6 +267,17 @@
  },
  {
   "source": "booking",
+  "name": "William",
+  "location": "France",
+  "avatar": null,
+  "rating": 4.0,
+  "rating10": 8,
+  "time": "2026-07-27T07:18:35.000Z",
+  "text": "la chambre correspond à un quatre étoiles , le restaurant est trés bien ,mais cher pour les presstations offertes , petit déjeuné correspond au cadre général , copieux , varié parfait , hôtel dont il faut impérativement se rappeler de l'adresse afin de pouvoir y revenir",
+  "images": []
+ },
+ {
+  "source": "booking",
   "name": "Julius",
   "location": "Slovakia",
   "avatar": null,
@@ -193,8 +307,8 @@
   "time": "2026-07-21T14:16:18.447Z",
   "text": "",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmNuyiP3xV8H5Ku0PbUC5dRrkqK27tydy5nbDyIRRc4_2GZCL98XBvIS66MRQh85WyffgOVvvImo7qsb3sWc0xUiM6TDZ7_xMMUqFjhdX9Zj7MW1yNayq8AxBBL6aB-T5fGTaGrZr3Ir6c6L=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmMHjyT9-_rwJ0LEHL4YzlsBMB46nAmGsNGDDSgG7V7wVhblVURO4QffaR4dNl6rw4fBqXQOY5enpB770WwOkp3noNwV7Wa3EUky0-xaQzASGOCvS4P_nPn2ffGyhQwLaTKmOvCC-VbHv8cJ=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmODxQgBTmPeM-1fBFHwWeQmzsW-KqQ6ScE1YPHEeShFaKSUZH7CKVR8R1Ta7lwS1N0cpoIvoZLqRrsXUANqdfFslcamS4EseqGfZOZF9gWS6YqQ16EIr-4SRXV1gHt2zoPOITwQi4WMLepo=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmPBbMm0IxsHXjYNERY-T9RZCUMPGniui_l97_qaeBaofWJJkmv6m_pkaPA8MhvFF4kGFNwlwNXYoYyQtA_IUW2vmlC_RDp796ae_TDFJ14XdPMPkCJ1d78oSwIqibPjOfwObcVaFyS82vuI=k-no"
   ]
  },
  {
@@ -206,10 +320,10 @@
   "time": "2026-07-20T17:32:12.633Z",
   "text": "",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOFzAhQTSOnFtSMuNPqBq5PogbPcH8oTpXdzS170s89x7OvaIzYQmZmqo8IIEyJNzGaok28HJwoq1aQGUo8y767fSXKgx4knehesoDvWimGONQKJakoU4OXIxB2bF6OBf-9Ka-mbHr9T7XR=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmMjJRAF8Sffht7MRhmtago5q0Iw0ehHDGh_ouIMsKYHzAGIz-3152xZ0Hxxv2c32plYlD12PAto5mYqEnHiSVrTAlwiTlgSdNMdTBYXUnSKCWgrYpZszHLEW0c24T-ENiufhxXdA23utbYW=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPqRWyUgTKHpRz60FDIJHsh4LkdfBOhh_aF-9B616ghIWhoNLnYLfhUmIFzSRDyoY6Q20j75qr3so5HJ0A79kc48HVS8FnnaC8kyE02IO4kijYtBjL170p5YHxnEF_UO8Yy5WvkPaaryvLQ=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmMxygRX6BGJVjbTWctbUOutn3DkeGgPLr8_4OccCAkVnBMdKFSIaigIPS-ECywRTDEi54KUaQXLG_1EUA5tCLtgi6jwSzXllVBdd5Is0llZ9Te_5HwewoDyWEU8oaR6jatBI59n0-jJIpTz=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMZZfrKnUb05Cr2rvBrr2R9P-n5ZIL791a4A4ceoV1nCaCqeUnJ8QLjDsMOreT6BRLINlKdOag7TkLmsKXBab7wjbNWXeQtMbGI0l8i5uWw0x4jVPAEkpiWX-1sopoovcml1t_yAsxOCd5P=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMVAux9cl826heSuEp62WDSpUrxj1Lm8pSlgteRWXtaLRqk-DVg12O0C-vnd9ORVKqxsXg_l8IQyPAr8zlPAGU-JjXV1lVRUzmRcp5xW8sEztH8MlcnJq08nxqDviUflQnlKoP3rENO0Mdu=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOT957dKrcxph8xp69wVEW83tcKkr_Ljz372EC67zxKoboOqADkgKWNoNtrG5miqqpkT1li7USDReUL5KPjr3fzJc71dK2Za5dHwk8h5jdQ4JZoPpFcNlfLcGkwplcIB-uEkK44fjDTYt-k=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmPXQLQaKZDiTYP_SBXe2k4OezdHVwXFONBMwkoWkcOu4SKfeGf6ziHTVjcENE7R455HeST38km2HtklhtA-9rU6mkyQGvVER3WmWNWse4WbN1VQ_butjRl17D4C8Z3pZdLCr-1CDUWZkXAt=k-no"
   ]
  },
  {
@@ -328,9 +442,9 @@
   "time": "2026-06-07T12:00:20.265Z",
   "text": "Nádherné miesto, dokonalé výhľady na celú Nitru. Vynikajúci, šikovný a milí personál, veľmi chutné jedlo...12/10...dokonalé.😊",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOezBS6lwp0t2jQHUQZ_VNKrWMInQsP8D_EV1msb7gJ9ZrAVKt6XQNZDrS08MVVIb6MGd4hGVVy7TnjKrt7f521ykus1H9073Lu-TTDXU_lGoeHaS8T--eO_YAspqhMlmJNSiKGTwfsVZE=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmMRfOnvNKBEaI1YTfqesvtDeIMDVR1_9W8cG5Aym0ch0MAyuhSPIDENkSGRFYMViy4LKFDQ2om6K_rQLVbu73hzWM5XzFebyxVN3iutP2i549Xd_zd_t0mIrq_ap1VOgStsAeC5Sj6rXoD7=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmM330uPp3htisoE2WIgZ-fVPOxoYoIgVVJBZO1zibZPVOesLdLSm38c9WJL9pZAAgZ3BR1lStlI9TiO93IKG7wl9n127a3TuiRNvV3aZh9OksLlF7PppPWxq8Eb8kcdbuoR-3tn19oEFr04=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmP8sZPJZOC1n0Ad16ngEE6yHS248QKHPoN87nl414ZPCYB67gGWmLx7Zl7iniX8uia3K16fPOvFTEj6WlXVnl0i4-S3-tc06GtdMlV9DUbu757bWX9nxjSdoLvKyGEH54nNOf6XTCVcDrU=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOK4vJaJJHh_x98KmF4tXsuZTcBkEABlYzcnQOeSRV0ooQAaHWoAN3jRsAunBXxfKI9pVdxUbu72xZm0eiABtkFXsJcOD6G1V9FNKZWdgEdc3yQJvQFkKGemDSH7xTsGpUaO2ylyF5uDE1u=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOMv73Px57k7w9jRMsb1zFReq9E-g4jZD359dsvTe2hMvymlM8FdDxHcxfb5aueqwi4QOrviv0nJ7IT3ZYM5EtslUnVW2hqupHD1U_r9go-sOdI_hj2D7VK3fH6jcyXVGlen6gZ1kJdhhji=k-no"
   ]
  },
  {
@@ -367,17 +481,6 @@
   "images": []
  },
  {
-  "source": "booking",
-  "name": "Klaudia",
-  "location": "Slovakia",
-  "avatar": null,
-  "rating": 5.0,
-  "rating10": 10,
-  "time": "2026-05-24T19:45:02.000Z",
-  "text": "Krasne miesto, hotel zariadeny velmi luxusne, vyborne jedlo, krasny vyhlad",
-  "images": []
- },
- {
   "source": "google",
   "name": "Dušan Hanzel",
   "location": null,
@@ -385,28 +488,6 @@
   "rating": 5,
   "time": "2026-05-23T18:18:47.001Z",
   "text": "Boli sme ako svadobný hostia Odporúčam na podobné akcie je to na jednotku",
-  "images": []
- },
- {
-  "source": "booking",
-  "name": "Ivona",
-  "location": "Slovakia",
-  "avatar": null,
-  "rating": 5.0,
-  "rating10": 10,
-  "time": "2026-05-17T13:00:25.000Z",
-  "text": "Veľmi pekné prostredie,personál na úrovni-milí a ústretoví ,izba čistá ,super wellnes. Ďakujeme,veĺká spokojnosť,určite sa ešte vrátime a zopakujeme si pobyt.",
-  "images": []
- },
- {
-  "source": "booking",
-  "name": "Pavla",
-  "location": "Czech Republic",
-  "avatar": null,
-  "rating": 5.0,
-  "rating10": 10,
-  "time": "2026-05-10T19:09:05.000Z",
-  "text": "Úžasný personál a krásné místo ubytování s výhledem na město Nitra. Blízko k turistické stezce na Zobor.",
   "images": []
  },
  {
@@ -420,17 +501,6 @@
   "images": []
  },
  {
-  "source": "booking",
-  "name": "Michal",
-  "location": "Slovakia",
-  "avatar": null,
-  "rating": 5.0,
-  "rating10": 10,
-  "time": "2026-05-03T22:14:42.000Z",
-  "text": "Chodíme sem pravidelne. Tento krát sme romantiku s manželkou vymenila za romantiku s manželkou a našim synom. Je tam príjemné tiché prostredie, všetko je čisté a voňavé. Dokonca malý dostal šampón a sprchový gél malého princa a cez to všetko že dostať 3ročné dieťa večer do sprchy je boj, jeho ten šampón motivoval sa ísť sprchovať hneď po príchode.",
-  "images": []
- },
- {
   "source": "google",
   "name": "Romano Romaker",
   "location": null,
@@ -438,28 +508,6 @@
   "rating": 5,
   "time": "2026-05-03T18:36:50.506Z",
   "text": "Vynikajúce miesto pre svadbu, všetko profesionálne zvládnuté od A po Z . Všetky požiadavky zvládnuté na 1*, odchádzali sme nad ránom a mimoriadne spokojní. Treba sa pripraviť, že voľný termín je viac než o pár mesiacov .",
-  "images": []
- },
- {
-  "source": "booking",
-  "name": "Juraj",
-  "location": "Slovakia",
-  "avatar": null,
-  "rating": 5.0,
-  "rating10": 10,
-  "time": "2026-05-02T20:16:36.000Z",
-  "text": "Páčil sa nám wellness, reštaurácia a izba",
-  "images": []
- },
- {
-  "source": "booking",
-  "name": "Ivan",
-  "location": "Slovakia",
-  "avatar": null,
-  "rating": 5.0,
-  "rating10": 10,
-  "time": "2026-05-01T21:15:35.000Z",
-  "text": "Cistota, profesionalny pristup personalu, wellcome drink potesil",
   "images": []
  },
  {
@@ -471,10 +519,10 @@
   "time": "2026-04-21T05:49:30.825Z",
   "text": "Great hotel with a beautiful view of the city. The staff is very friendly and helpful. The room was clean and comfortable, and the breakfast was very good with many choices. Only the ventilation in the toilet was broken and the wellness area is open only until 10 p.m. Otherwise, everything was perfect.",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmO2Qx59XVf-dasFa15RetVQKsxXImo7JpTMXLnVJ-l3wy2QiSK9h3gaW-Oq4pC0f6YxGlvb91C9g2btTfWdZYZXmxdkvACIibaOFdf3AGsL6AFnBNwhXP9_GuaCzGtf4ZFmBC3uxxooxyQd=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOo9KT7iMomrA9ZzppoiAnDqZZnhN32KlUX-1OxlLNmCWcsT0y7vykBcwZKCMG--GrX_FiJ3Yb40y3Ae1auWve47647d5rEuOxz2Sb4Awwkfz1TfpW-6aaxYud-MhRvqNYW5BpGX5tU1KYv=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPtN9YHr-pO-xfHP6QuWAQZA58djd7SYl6Z5EGXimIE_QQVvtjqbzBV3yayCSUo59JbuqZs5fPbM34WBVATMyKozvclq5wuyMbj8GTn5LOI1GK9MXEZjC28LxrFkO7YUVRnCfcXV9j2LlSY=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmMN4f3TA1pRNeaF9cbKAFFlnfPWfQeVxhoLdUOianxNg-4Vh6OXBid2slFOUlpiEBUEu39Wa0iaKVCXy296FFR-yRkFpINJlkUvK_rnCuvNzjzDYA5bYkKH262RP98F1ihYXK-c_Lhsvy8=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOyYASGbBYiSV9ACQW_MW9RPIbzifdrAIGdYpy-uCDAr1I1F6bSy8idiOALA7bAaTaOdNzC4fUQglhJvvP3-dpErJ_pa8kIWUIn1fDQkZJrU_i_Y0-ffHgLXMsXGmlB4-Sx8Jt7NqIxtvHh=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmM9gp36GCXFIN_QExj2jESFjIzvDVOBU44fnA-LMK5Z5oj4Xy5htyoQNBMbnz0eRjw6PbHc3kS-Le2lt3Ya3rsQl6dDcSeUtpQhqzXUTtL5Kj5nNlrNoB_8AyXEAcC_RRXMFsJjc3AQH3Nf=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOYjE1t9a_kZcAJeX5XO2Ne59wefajSS9TlRgvrJT_qE-sNUiLSlcsD86Bby2oNb_LQstIR22yaRpkGbJHw-SK8_848bqFJ47BlfGIYpRP9ytCjYrc4kEAAPucK3ZWSAudbXDeqkSIDjrG6=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMU_8R1R76XJi4pM6WxIbkD526EgAgo9Rmirg3hF0XmInVg-Uc2osVvuxffitZ2PpJBVIavZBN2u9GSZHxKyzWBdQ_wtelxyUU72atIwasxdNuLsdbjC10BPs-aszg4YNFlGXIfOoDI5qs=k-no"
   ]
  },
  {
@@ -486,10 +534,10 @@
   "time": "2026-04-19T13:39:57.929Z",
   "text": "",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmMXSCOo1pvn-o7yS0DS21uU66cES4WOrFdABChay9cF0xtp7mJcs6yMKjMixwZtmVvJ_RU3tzgbWY6hTJExnl4NSVzVeS3hHc9vn14X4LP9xaga2m2WcBymrWXONgjZgGovaPH5U4Ljiwq4=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOsYoGbYbwoZkvopN28heO7-mzH2FdgbB6a4Y0peLmIFWVtw8IYgOm0CQbZjDnZxZ2_mFc3yFOabf_L4heSrhfEnzzddewJ1-eTboWSzm3qjPOGA2NbQ2CiM91AM5No0r_gKRuACvg7Ajqt=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmO37Jj4UASXm3KgrEu6TPw-mMImrrFK8q2n16xMVvDIobBCZ279cBP4ke09b5YaU5zgQ6_RE8rIlEWMbnHYkmycOjtsfqQCxk_Xxq9YMXqqEu3cmUcCdAJq9DEDdJq9R4h9EHIbuNwvLjg=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPPopTYvusD1MDl5ythcZThPUwZ3JAWa4lCAG9kJ_lITdv1S4ywWDQm8Sr7EnsKXtXHKFqup2ZQkpzfa4n8Bw4rvS_vkRCKt5HqVzgJ8vY2zrgooEXEtq_UbQE_ndFgebkv-DnRhm35Rvs=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmPE4mqZ1MUcaVCcRHLURAD8ehkDavohQhrmLzWoOhSs364T8PrzNegFbPrgU9gJuRuPXgEyDTfYRLkB3qk1q4o9CFi3kUwBTtKdgvhOwlu4zhjayt9yHfOA6fdaw9sOoQf3Wp6hkwlMGz-e=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmP_BH5Fe0C5I3uAm8epBVVi3W28X71ZjHJUBgWgJj0JE7zfKEBUseNe5DdnjsAg01ad-aQUrFUxS3wm3UkFiBTEH6TCZtNSbtJibub36NbITr5zUHjH56y6t_RpLugpYiGZOEiCVpwm9oeV=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMf0gxfttbOdkBKlCJgSwcYglz49hRtjW4RAY2uevTtexdVcHanKi4kdlgAIbHGdCW8BrNC70IdbhySn0WCqW9SvsLLqegoqfimkn8h2NOcIfvkaYpwrbbdIlZ7zVYgG99Ib_iAPRtmUn0=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOsKhfOQRYjVEEiNBGTz_-Poxaz3MGT9TCP4theQPwikyJzz3bR-Cz49IYMzeqmw3w8IA3KOYb75pjyEJ7-gfjqq71kT4KdVCQmf_pRoSmqn4Gmv-d5pvH8c69W2rCHVz8SFDHLsTXEf5E=k-no"
   ]
  },
  {
@@ -501,39 +549,6 @@
   "rating10": 9,
   "time": "2026-04-14T11:31:29.000Z",
   "text": "Everything was good. The staff is very polite and helpful, the breakfast was good, and the view from the hall and the suit is awesome. This is a great place to stay for a night. The spa is great also, but could be too warm to stay for long in the main space.",
-  "images": []
- },
- {
-  "source": "booking",
-  "name": "Radek",
-  "location": "Slovakia",
-  "avatar": null,
-  "rating": 5.0,
-  "rating10": 10,
-  "time": "2026-04-13T17:47:46.000Z",
-  "text": "Ciste, prostorne. Meli jsme pokoj superior s terasou a je to super. Personal mily, snidane fantasticka.",
-  "images": []
- },
- {
-  "source": "booking",
-  "name": "Peter",
-  "location": "Slovakia",
-  "avatar": null,
-  "rating": 5.0,
-  "rating10": 10,
-  "time": "2026-04-09T15:02:52.000Z",
-  "text": "Všetko nádherne aj raňajky ako v rozpravke. Pobyt si naozaj užijete.",
-  "images": []
- },
- {
-  "source": "booking",
-  "name": "Kobalova",
-  "location": "Slovakia",
-  "avatar": null,
-  "rating": 5.0,
-  "rating10": 10,
-  "time": "2026-04-07T11:37:19.000Z",
-  "text": "Nemám žiadne výhrady odporúčam ja určite využijem aj nabudúce pre mna jasná voľba v Nitre",
   "images": []
  },
  {
@@ -565,9 +580,9 @@
   "time": "2026-03-30T14:58:34.511Z",
   "text": "Wunderschönes Hotel mit Wellness toll gelegen mit tollem und freundlichen Personal. Klasse Essen haben uns rundherum wohl gefühlt und kommen bestimmt wieder.",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPY0n0vmKxXqnZnQ0WTW1JQ6JzrpZ2hhf_I1t8AzlLW24xRzofKcXdw_Rfi6x5OZf8HqGxJs4fYGVwGwFkoDdzHK9QM-06k4nQ2QlKtxcCAMwriXtW3yzCHPwiYcaamE4S71b-om9G3mhRJ=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmM9kfAsu_HmbXBnNGEddaeRgvUcilmP52mjjBzQ7AP1QBpSFcSNOfy0N1iKlB-UHkO9fC5u--v_9ykVQ7SS5pRHo8pWDRymIjK2ZzlhGueuNodWZfdZGuNccv7o8kkyXGfj2BVWXOct7pip=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmNG7V0CTUjGm45y9gUrMPZiELsPeiI5iB68C6h0LeHlDvPlPahbq7mXVG50Ck9qqAC5a_nPyI1zcwqaXURNjGDpzD4MQyF2j2SPwYvJWW6jtnL_H6-zyXDXLe3IpgWKSsCHLydfeHtZfAb-=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmNReq7QPylcDLoJQSOfQgrOGT5ZqWX7QU02S7KrDkBjapTJVCot5nTLK5Lf_8FwyP1ppJ8yaFMdjOpSi2yuVfiPW9J2PaPLITKGWdLG4g2mSglvRyju3BSOMfqtrecWUkLP_z4LnBXggmF-=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMTGzD-24w5Tw5ea001vUa_Sd1C9CC9ruJ3UmBOXcyogB9cFXr6ts-q0LeoBf4Y6AgLTwmNjEFnVtrfd70_ZqzEP6E-bYBgC323Ql7H6-zjRJoWvdp1oqq9waQt0G1G94W9MiAbY-8Lqruo=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmPuygMHR9oBtR9TOhvIdtvbRs4OQ9Oo0DpFYWeKvJZ9Bi5kn2F_3W1yuIom3e6MLo6Rz4HIYNQnQUKk4zrPwCDDc2cMCd-MhEqGo-ax1UxfF4dCpqN1H4z4WQdHdUxL43gfq6ChgzVK63eO=k-no"
   ]
  },
  {
@@ -579,9 +594,9 @@
   "time": "2026-03-29T16:12:23.194Z",
   "text": "Wirklich tolles Hotel mit freundlichem Personal, super leckerem Essen und großzügigem Spa-Bereich 👍",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPT8X0s8UUGu7hpw6C2m0MISuEAMGLFzQ2ZRVyDGc-u8yClhc2hzK42bGW62Z5Y1RUW30SCmErjH2mFZbcZXj-j64XjkZPHuDFVeq6S1HUzpUGmPFWF0s8Gs4AXvcroNZGSr-QhI0zTBiQ=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmN7l9nKj4H3HMXy5XIych6H2Lk8E9PaFiR09v7lSzkLvE9KpLX5AFMZhPdDZPFjz7pciRe3s0MwTfe_EgQ1be59Bf0VMTJgyU7XNtwuaL1aY9BUU4B77JDDjr8BAtUqUsPkJ94WS6sxyziZ=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPiK69FrR0riTDjWStJICtE-9OaK72fwctA1TZHykHeS0LFU5L8eh12K9O8XVesklXgOq7gajURJS5-mEqdjcl-fcXJ3fzVwmCITLqGfmTiOsNtMOe6s9cC_gY88YeYz3YrxlDKZrB5Sdz-=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmPZr5JDFyIOdm1vRC0LfbPl-WgGBIog1ZvqM2mSZwWxFyFCel73LJGseDfhGlQU_xxlkTUOSXKtL-whJUeTVPiOi3xnCoumfZpQoQMOzpmBtHYz851_-uGd_cG4EYF4NRbnNvyxOb6aT5M=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmM30RdLkjY0DnFkGJHOU1hGTRiJh71OBHWfwolOBsHVFyZyeDsnbtSUwj9hp0qrkWaGIe0lwC2_rueqSCzNtiB_0sdmrcISswzosNBhACoFmkj1Wbcp2isvUVthqiQvQp5RCEKeZheb2MC3=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOA9Tdt9MXhxn03g86apwG104CaERdMp1KJFxCa57ORIlNQQ93e24ApmG0Tus9PfmrFpg5vN8BjaauV-EuEILA2eadoINsLy60CXAIPCF3m5DgRz0qnKvlTnrlmPxWcdXGaLPzUwqpTEWg3=k-no"
   ]
  },
  {
@@ -603,10 +618,10 @@
   "time": "2026-03-26T07:11:22.598Z",
   "text": "Nádherný hotelik, s krásnym výhľadom, suprový personal ktorý sa vždy usmieval. Sme radi že sme sa rozhodli stráviť víkend práve tu. Wellness krásny, izba útulná a čistá, na raňajkách nám nič nechýbalo a bolo si z čoho vyberať, všetko bolo vždy chutné a čerstvé.",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmNi7pvGVJYDdiUhGs18tMwtDgXUmfVE6KyE6qWkMfqiDZzvzuWn7kLvC-2aY1YQYMbouao81SE4MDeYNQ5_0suAdILEfvIkaeIsa3lFdzRV0UNgCB3S-4_c_Uz3V3j78rYpXVuOHW-wkEQa=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPJtS6AVVy7e3URddkfKaHYkUXKCGzetVl99gf21Mt5Z3Pcz-XKrum3nEGKD6RLO5OgaZDqrkCmdHPPwmYxpls99NSpkCUicth8v9XyT55fcCnPlMmSYkLdQi3jCwN4gmLzjW3S7PIPsek=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOww5x37-1YiC-b_3Jfdpqn3lqpjKLb4szX8u4v4yvDoA_qMSnKtH_f2pehPW_CeJQkgtCCaye_8IK0BJrpChV3bh5rZOnyCM2vgwJPeFcz3Dyfhbz8OWJtNmkQ0qcDcpYQYZAvNhAKAAcS=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmP9jNL4YVdJQg-TKXuNlyIO9qvomt7dz2j4Lh_ibIFbhBl7Lyeq-0aAX4VBjbS04-X7FcTanyTOa16kyFiBTvfB8-mk6oam1sRcDGQYA9y_kWU3tdGntDRTnCtBoBiLap_qIYnXJKXeNL4=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmPcwRwGxWUKO_yzFYOENGQNh3PoPYmVnUVkttGaoMZj8Iexn5kk6h5Jd2gc6Hzi-dEea0G4QC1HlgeqBP1-U_uuRPnG8zH1HcIiNlc-mXnd56jnaQP2aYmZ-w_RlXryop55knhZ101Z-bbt=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOUM8GcYXUs0F3C8SBRIBv9a9eDHqu7cPRn5PKKDtfiWU-aeyH2YoXfJ0_PWFsBzBditKrDXqCcMjvNjllTQ3hilbI19G7VMiIC4O_hWeQZs-6QvMgkgvRor7XG6MOWVSr8cJ9Z1yYX714=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOKNJI72Pt2rUB3ghqFNxApOos0sYFDKvWUgavFlCPw3ha0UJNtAt5sjZdV87oqjUuO1cVq9oDtsD_icNe-Vx5Q-ujQNMB2gRR5gUTcXRGpvBHn-EgGWV9XvsmiTRBKGoxj3hdzcmuvsDmm=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMQFwQhif-hggxbGID0Z1lBTsFcVvCmu8Vv_bEt_COeU17_MGHHQFK-f60J87nyY4R7cJQKSH8CqqwTq9YX4ZpdGdOcANGVx6c_xliyFBWS7BBlgSO4j2AhFrZmp8TxUHpN_ZetC_E0mKk=k-no"
   ]
  },
  {
@@ -618,10 +633,10 @@
   "time": "2026-03-22T11:40:46.090Z",
   "text": "sehr schön gelegenes Hotel. Auf der Terasse einenen herlichen Blick auf Nitra. incl. Sonnenuntergang.TOP. Exelentes Essen mit sehr aufmerksamer Bedienung. Schöne saubere Zimmer mit genialem Matratzen. wir kommen wieder",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmNDV2xJG8yk4yUPSIiSLNKsz8sanHL9Zer48QEZLWolLr2LwFvIvOFITJ8d-CnO_RoOg8c2HY1rflFwmNUjZKmVn-bf7MdtoA3ExdIFH6mpmf0ToEk4gDRnyk79yp3_vDJ8P0mASyzlxFw=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOI9_2OlOf4aW6LL9bVR_MSrP1S37prKgNG-HkGALddL9ogLfLVdpXgNJcFRsL-rShMWeCPfEmWXkXdAXEphuAC8kIBcmIY9UJSXzWKwU03fYcMLd-LbOcwPRLQc5_do-sYAWualZjEvVY=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmP3w6EJXHvFVVGe31iCrxueZT2VQV7h_OVOpYXZ9NwymTGH9MyYa3PI6n-1csVda7NfPy03onzFNLYuYogolzQYtFfx8WTxVc4IhYccdeSjl0T0hixlxGun9wfEK6np4N8D7jCMI2sYGP6b=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOt6DL_Helr66w-wq8Ro_AU394UtjGi95kPUuxoAUj3ZSeOmMUUJc0sIXhturh2PDnoVKVGf5C_AuEut_qimxA64SbNUeXLNz2UBLkFl_XoQwGDIJjY9shrN6AqhR9I0E0J6JWIp0fr8DY6=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmO5GxO9XQaXzIeZEReZ9wtParUHRgYdyma1CglEOWE11r07C-LWNE3r72rw0Ocgz3h7G6UHPPBSz2P9yPcwiK8OsiFx9bhWkoPYnOrGWgtz4BeDLk-zjDG2yqU7lVZKxgmqrM6JPSBqkxk=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmNFB921_LX_Cv3R0N4LtJi6UaGljpf8w9WEt3d1XhnwclfQcmfJUwxTq2X0TpyygMRNimMbNHhp6iJ1OWUXDuRglFjieTqf9jR-mkyIxUKPWerZG9XBXvKM6c6Zdcyk_1HgzAxT1uiHei8=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOE8xWy43Vi42WNcDFa1mZZ6Vc01ZvwcdBz-bvS-t9RnD4OItD-si_fDpUqLa7-3V5daN-AKdFqexHSWNA-dj2pFWOboD0yvJC3pn0RCT691XGK1tNWvvLdG3adqUUlHsgia0oh-W9f61qc=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmNblKHxoyu5AzjeuDwGiSzUY7S-42VGLKbYq4Rnh4VhWcYzClyqdJBWk1BxlktJygyx1QvQ7sHmh1sv3S_-hDjyz4csPSvq6Z1LdFmgLb0PvG8hGEAsRgHlIsfH6cuVNQMxfXPT-NbRhZMV=k-no"
   ]
  },
  {
@@ -633,10 +648,10 @@
   "time": "2026-03-16T16:01:48.619Z",
   "text": "Kuchyna je neskutocna. Chodim tam hlavne kvoli jedlu. Vecera vykompenzuje, ak sa nahodou najdu, vsetky nedostatky hotela. Urcite pridem znova…",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOYU_QMFsW7tt7L9o4MSWheYSbauU7UdLOHqiv9mT1VZGQLchjbEPHVsYV4sN_U9Ub1xdCqQ78mqX9dZeUkLCKhAkjMM6SDO5_-ec7-GQCPcCuhMJjEZ_6YOZO5dQ9GYvKurCB3v770svc=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOyEgF4pQJ1zgAVIJ4LNaAMYyZOaVA7gvCaFoT6E17SIphkiVzJrLOkR2UWCJvdAXNhfjapjLrQZu0E-8LPZnlzaomTFVBTXdnLv56ML2i5hP8xZsSXMq2_CUu8n3DRde5XeWEicLHKup00=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmP2WTaWyjm831BhNUuoWxLoR5wFOP0JkH7PnUyO9ZymByuCzNoDS8sA9jbtGRSx9nwXLmstLApxy-1UH32IDGqmzQ4F7G9cPdgSjNMVGl0GEm2rFriGD-_QF5n_9RTTcGQfZMhr-kmbroE=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmP3swrWBk81w52WIMa_s98SUQ8vdiM9cQ0i3yznEF74bbH7ACbHIlPl9_KnW61E1TOm9qld2LXXtgSKAoy73QN5UvDgdWZ59fvaEVuW9KR3jD_dOzTE5eZL0eKkXYKIqYYtvmIJ7LEXmCQ=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMLltd5f9Y1gMkPhjEje38XinLk166ReCOchy-58Gr9QlpAJP-q67WFQDW2XKb6puNCQg4UHyvY3ii-O-pYe6ptdLUiBNdHyxBvV_Dc0Saqvplln3rbdMXv_YI2SBG7R13WuxWSlGSbxTc=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMg-vGtTb7bfgCCXMOby2lzhQX7TK2EVWhJWnL0giVjOVR9a7kl3FsxjEMUs6AOCrd8hmDR3YIIaXP1F3egQ-f4K2WNvsv0zQ0A8iv-QE8SrLAUZ2pKOiw37f2pH-6ndD67JItU9KdA49lU=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMeOF18b6Oovjx358gFkErlYSBMBv_pLL6CPmofzdXf8Pc9Mv9dyb4MvwQGBZOiJ-qROFhvPzY4LtWKGpLVZEIeGIO0mw0psDF2aW6207LxE-6GInojEjs-xtRf2YBhpciUtTlkdAyEMbE=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmO5ZVXjMLf9U1z8zuN0N4Qmt8ggYMuVcXawfouPj4lUM6cOsA4UZgobacvcW8sgwUOC0v0Jd7NDyeRRShPwBOEUJuGapk9JhH90gKxYncMCAynhkE_LowoYI7L9hlXhnDZ_vfID7XFZDmQ=k-no"
   ]
  },
  {
@@ -679,9 +694,9 @@
   "time": "2026-02-17T14:30:28.558Z",
   "text": "Úžasný zážitok, od príjemného a profesionálneho personálu, cez krásny hotel s nádherným výhľadom, wellnesom, pohodlnými posteľami, až po fantastické jedlo aj vínko. Ďakujeme, určite sa vrátime.",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmNrv5vGE3L2MA2FNTSLcJ83sFKOofRJK-8KCVNzJ2Zyra5C_Rtv2a1VaAdDQWXDN0AMYWpaIx0HFjuk8yf9SusyPoGYtuOwg61T6IV3xPesHO0K7tqhVlzA2LOEfmclNpKL99kwE_t9tRKe=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPk84Dp7SKGpLUk0Ugo56a0L23ebMbhnAJ-GDnftHYOHCwUDawSVmpESbV14HJp5aEcROjtN202r1mU7fQFOHCsEg0kbud0Ez6CsZS0uLUVA1UQv8sfQCZ0ttTtmbHuqpN5qFk0JL2e51eo=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPiYRnnsxbexkjxJreFMfjjzUyOmvlXW1wscUkh4R7N6gJU7Tk3UK950xHWdIARK7SFRHCE9Y-eyptM-WxBjoaR9iFTVmheLINPSH3g0IhHMMWtpmcC_xO9NIkgJFRq6o-Ja08-whaDo8qT=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmPlGVNFHlBmVVBk5XO5C08-qt6Clo0AzOlqFRhc7Lo3YUTyJXeTLs689W19MYEcfjHFu2HviYfgpvSX00c-7hXld7HfJl4w89PfXOC5rCKxpPrjZJLNgyHsAETFz19zaHMrTIXzCY_wWsNq=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMjTEZyNyb5btZu0n3ZFBHa3sMCN8RekjOosogEWO9g48l-puETO-WVc1WV5aNKzPhGLaEnm0YcC04oj02wd9K5XJrLIc288T-L077vZTuShdutTLQrl-1lYzRHvHgHWahsCm7xqIZtdgtN=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmO8qIi3TJbMq9PrlO2v2eMm6iYY9YOjoMD9_1rRXzVs2wIPlLaFOr-_eNXiTOBcj5meJ9KPIcfb2L85UjiBc8YYXXJ0hdigVtLRBu0PXYPsl5BrLPpfaOzXG3gxue4NFn6Q6ywNLtjgu6-3=k-no"
   ]
  },
  {
@@ -736,9 +751,9 @@
   "time": "2026-01-11T10:02:54.361Z",
   "text": "Nádherný hotel s krásnym výhľadom a úžasným wellnessom. Personál bol mimoriadne ochotný, milý a vždy usmiaty. Celý hotel bol dokonale čistý a všetko v ňom príjemne voňalo, čo vytváralo výnimočnú atmosféru. Večera bola skutočným kulinárskym zážitkom – výborné chute, krásne naservírované jedlá a vysoká kvalita surovín. Na úroveň služieb sú ceny viac než priaznivé. Skvelý pobyt, určite sa radi vrátime.",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmNJTl29v56hyduDRcst_PxqDaUiiXpCCVc43iF-2BujlCXjwe0vQ4AlFQm2vuNR4h8ZsS0H9w2hoYjwlBqMq4JYQXxEWcYejngZQpnJYa-_lr7apArQR5OcFpbHoN3nEu3Py2G_CNFgeTOn=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmO1m7UMrkMEDKzmOZUQ3hKcXLkZiVnRBwHQlKF8q9d7wHVjaKRP-HS2OD3vHCfAFhAaFKsHU1rFVQqKoTRJ3EocJGVkdr4UmZ3ysV5FzFsJuoqx1895fExlGR0tefypl7v_nUeLVV5CFQ=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOgTN37lfwGZz1snLr2GVEp8sk1v5YbPvBZAnxGFfxbH04wQ0aq8raO1zG8lfJWUPaPS4oNswXlASk7gt9wk_9T6_qaFsIDexPV18IxfYBq2fnWoHE56uKR7DWvf4VPGB1HU9qztfXH3fZ5=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmNIQlpJ6fiJtIvkOGIhvwQkIFe7iw_44FSAIODzMwuxRVoDdl7bAi3BXO9uDsS_0w-gUy1hGDc4iDCEAYW-8xCmATF8TKFWi8unDkNgmCoBP5jia0rL3vFHqday8lhyFcdHSwKXX9OgrdYM=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOYBPXbEzlwps3-OiZv78f8V1PEvTHwTfYXcBuGk0dieDWLdgZAR9VBUyrKUZ--XScmfTaWFIHcXRBk0HK1pTAr7eNH5pEg4ws7kNV9XIZVDHK3UTBUssDOSzdu1Y6VycGKN4wt1nXiWg=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmM8eM_Zb1EW5lO9cvz66OQ0OwAqC5mZBGWEuACci3sKlXzXxB4IY4GXwxFq-OYQO9LLW6X8EHnQYJHqeH0GV-nnrLcrHmV7bsJeqGDil6dP5SZE1G2HP6OTs89G7FC9Ec5g5NZLf7tj9xK5=k-no"
   ]
  },
  {
@@ -791,8 +806,8 @@
   "time": "2025-11-14T18:23:07.090Z",
   "text": "Nadherny hotel, super wellness, ranajky este lepsie. Krasne okolie, mily personal. Perfektne okienko na toaletny papier🤣😇",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmO_b_UjI5ErQvPnjDPbxYmoEqzTtjItmwxlbXRglMEICHpZcDz6CjMx8UzWbHlyNwn3w_Qwzoz5z8jeQ351srgvYPkOZ4nOPzJ7RV3WuEr-1-v-KAa5uEfKz_e6WKhgKWVMZtGVJ-H4vgvI=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOllcFeMvU547qtHGrcejaKS6MzLdzwqBq6JyR8K0MNOAUQf88WPbYquL60Cn31XkPerUswaQI8MYCIqq45aSGMbx4dz_4uQj_YpbFhc1Som28NSYn-UahqDSs963pFSOdVlU2S69RdSX0=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOVU5ii0QIU2pJdZLmxU7R4UreyUhhaHMDZ0Zjr8GA3mUTNuVbi_TMK4Jb6OaWlKCeiilRjNBdHSyzKwl7rlItnQEOw-mvFvThYtiRsrmjX5_o54-WdokoUKLrIK4uIWLesBIoqDCYEjR0P=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmO6e5IGvXowimfZDiMq2x-JUHrAWxPgBmuiLa6BYX52gOi3MGrKsg3iDqbDa2gmChUQK4yHm9Vs1XftfjZsG5eilQxBj_zt1dIP6997eFBe4jFm89KMWuPDlkClUzieORsCxoWbZve8JZE=k-no"
   ]
  },
  {
@@ -804,10 +819,10 @@
   "time": "2025-11-09T19:40:17.560Z",
   "text": "Dobrá poloha hotela výhľad na Nitru, veľmi milý a ochotný personál, izba čistá. Výborne pripravené jedlá- chutné- skvelý gastronomický zážitok a ich prezentácia. Menšie wellnes: sauny + vírivka (bazén len v lete je vonku). Na wellnes odporúčam rezervácia času dopredu. Za nás top hotel.",
   "images": [
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmPzALSpGMeLUTbSi1YGRhMiFIHMcu6VowhL9DsqqWl5o5PDxT_gT1IYcck-HctH7HQEg8yEOVBAQW9RclknZAUue-YAbkkNbnIOTFXygqCtu6OEb-f2sKoZyyKahq1g4cMQxlyo7CdGBr26=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmMn1O4m2oiAarwKSc73UlO_UjoR-xouTnNZ7lHShlrW4DnuaqQYi7Oopg09mOT6BHXDg4F3RF_LmDzRS2nik3pbFId4LI55aPA4Ui5OuB_--lw9_KwaHQyPlshXNHjDR-olCnTJahLQEfw=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmOmzdu2PoV6xzTmsMIESfk3cxcO18CSPWBmF6iXcT9ElIk-BcTqo1tQ4n8LnK15zawauayGt-Xax_KplM5pR1tEORWs5TDTXJGpuzrahQZgOx090b-9K5z5TlF1dN9zU45dXyHdQdykjny0=k-no",
-   "https://lh3.googleusercontent.com/grass-cs/ACvplmNPe4ekFKvt3jDkHZsDwQ0bw6d92L4HrIWi1sLGv6DlURauC39IbmhLRAT87VNNSjHGbf5fygnpn9gm1QkhhtxYyUKJfyHrKYWh00xtyfI1aCoJP8RBvBZmpqkRBjZNQfvmwzTPFw6YB78=k-no"
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmMbzpBixPTuud7wfODH9eNqlfJJmL2iew-yFkKp_OKY_-D6TEi5VNFZitvJUlQOszrQD4LAs4XhntDNDoIJJx-asQCUOy-ZHIPC6Mqd5jNl8grNoWtWL-a_02579HOb_cc2x5h8u0dw88Jp=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmM9-pUWvOu2ajh2Msq8yEctztyTltKqE1gfp3G98nZVvNKuP_NET4qHsxG6hQYtK7-V-mvCLEoq9bXyMZBmWf3P9HEFAJW6fJw1vKXEuiy4mMjKmaJfU2chu5x4CVBHkxPEyvy6q9Qbes0=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmOjNrOc9DMHaPc41GKdb8kyz2MBzPqGHP8b-ucjO2HYwJdKWD1xo2-J1zsK3zLFpicPnbSRee3n44ck-Ep0FBe9UwALxxv5aWlO7tplsfwxrrsgVX0ivClDsAaS0oM2-pU_tnqKUN7ntYYq=k-no",
+   "https://lh3.googleusercontent.com/grass-cs/ACvplmNGQG4jJ5H48Ow-t_anT3ZInXQRcooHluMX2K354eFWBHuyOvEz8eq4iwq80WyIWUFE8HhHM80bacX8UjWt5mIadwmOe-8-LmhVjjf2rUMONfYCLtRgtM4wdelIMKSWChVtnLeqeV08bQs=k-no"
   ]
  },
  {
@@ -829,16 +844,6 @@
   "rating": 5,
   "time": "2025-10-26T07:59:15.952Z",
   "text": "Rad by som hotelu pripísal ešte jednu hviezdu naviac.Nech sa darí",
-  "images": []
- },
- {
-  "source": "google",
-  "name": "Jozef Wagenhoffer",
-  "location": null,
-  "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKEIVkLhak7eaP0IMwyyfnwyFlvaA964cAR7hawKXpMULcL=s1920-c-rp-mo-br100",
-  "rating": 5,
-  "time": "2025-10-12T08:11:43.809Z",
-  "text": "Vyborny personal,krasne prostredie,vyborny wellness.Odporucam rezervovat si ho dopredu.",
   "images": []
  },
  {
@@ -942,6 +947,39 @@
  },
  {
   "source": "booking",
+  "name": "Silvia",
+  "location": "Sweden",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2025-07-15T17:49:10.000Z",
+  "text": "Excellent stay in a beautiful mountain-top setting! The whole experience was outstanding - from super comfy beds and perfect rooms to the beautiful pool and sunbathing area! The breakfast spread was so well prepared and had a lot to choose from. We also used the SPA, which was very clean, well-maintained and relaxing. Throughout our stay the team was super friendly and helpful, we really felt well taken care of!",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Mazvita",
+  "location": "Slovakia",
+  "avatar": null,
+  "rating": 4.5,
+  "rating10": 9,
+  "time": "2025-07-13T09:29:25.000Z",
+  "text": "Lovely hotel in a wonderful location. All staff were friendly and always greeted us with a smile. The rooms were clean, breakfast was great (great variety of hot and cold options) and I really enjoyed our little terrace with our room. Will definitely be coming back here again.",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Brittany",
+  "location": "United Kingdom",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2025-07-08T06:26:43.000Z",
+  "text": "EVERYTHING! The interior was so stunning and all the amenities and the breakfast was excellent too! Should definitely be a 5 star hotel instead of 4! ❤️",
+  "images": []
+ },
+ {
+  "source": "booking",
   "name": "Max",
   "location": "United Kingdom",
   "avatar": null,
@@ -975,6 +1013,28 @@
  },
  {
   "source": "booking",
+  "name": "Skyler",
+  "location": "Austria",
+  "avatar": null,
+  "rating": 4.5,
+  "rating10": 9,
+  "time": "2025-04-08T11:30:39.000Z",
+  "text": "Very nice location, very clean hotel and very nice staff",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Lily",
+  "location": "Estonia",
+  "avatar": null,
+  "rating": 4.5,
+  "rating10": 9,
+  "time": "2025-03-17T19:59:19.000Z",
+  "text": "Very beautiful location. The room was big and I had a terrace with little green area only for us. I was draveling with a big dog and we did find little green area at the lowest level of the buildings. The room looked super beautiful. Nice breakfast. There are parking spaces everywhere and I got to park just in front of our entrance. Everything was very clean.",
+  "images": []
+ },
+ {
+  "source": "booking",
   "name": "Tatiana",
   "location": "Slovakia",
   "avatar": null,
@@ -997,6 +1057,39 @@
  },
  {
   "source": "booking",
+  "name": "Jana",
+  "location": "Slovakia",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2025-02-03T19:38:21.000Z",
+  "text": "One of the most beautiful hotels in Slovakia. It was great stay with delicious food, perfect service and amazing breakfast. Room was very nice, modern, and the biggest bonus was terrace with view on Nitra castle, city and even calvary. Wellness is limited for 2 hours with limited amount of people (we were almost alone) and totally new. Highly recommended.",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Katerina",
+  "location": "Luxembourg",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2025-01-01T11:50:55.000Z",
+  "text": "We stayed at this hotel for one night, and it was a truly wonderful and relaxing experience. The hotel is stunning, with everything in excellent condition, and the rooms are exceptionally comfortable. I also loved the L'Occitane cosmetics. And the mattresses! They are absolutely perfect. The breakfast is delicious, and the staff goes above and beyond to ensure guests feel welcome.",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Czech",
+  "location": "Czech Republic",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2024-12-26T19:21:41.000Z",
+  "text": "The hotel is immaculate and beautiful. We loved the Christmas decorations. Both rooms had nice furnishings, comfortable beds and were clean. The breakfast was delicious, plenty of choice and the view from the dining room was georgeous.",
+  "images": []
+ },
+ {
+  "source": "booking",
   "name": "Růžička",
   "location": "Czech Republic",
   "avatar": null,
@@ -1008,6 +1101,17 @@
  },
  {
   "source": "booking",
+  "name": "Kresz",
+  "location": "Hungary",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2024-11-05T11:42:13.000Z",
+  "text": "Real luxury experience, beautiful hotel, excellent SPA, delicious breakfast",
+  "images": []
+ },
+ {
+  "source": "booking",
   "name": "Rebecca",
   "location": "Austria",
   "avatar": null,
@@ -1015,6 +1119,83 @@
   "rating10": 10,
   "time": "2024-10-21T16:06:15.000Z",
   "text": "Cozy and modern Classic style circa 2010s. Very well kept with nice amenities like the spa.",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Petra",
+  "location": "Switzerland",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2024-10-14T05:27:16.000Z",
+  "text": "The hotel was amazing, luxurious, well decorated, with very nice ambiance. Amazing views of the whole city. The room was also perfect, we loved the little terrace/garden with a view where you could drink coffee in the morning. Hotel staff was helpful and very pleasant. The food in the hotel restaurant was among the top I tried in Slovakia. The SPA was also very pleasant and the massage was very relaxing. Overall great experience!",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Katarzyna",
+  "location": "Poland",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2024-10-11T10:21:16.000Z",
+  "text": "Beautiful place wth amazing view. Very comfortable stay in wonderful room with everything what is needed - free welcome drink, amazing room and very good breakfast. Smell inside very sensitive but hard to forget - all detials on the highest level.",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Lana",
+  "location": "Slovakia",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2024-10-01T17:34:08.000Z",
+  "text": "Beautifully designed hotel , amazing spa , delicious breakfast",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Veronika",
+  "location": "Slovakia",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2024-09-08T06:54:42.000Z",
+  "text": "Beautiful location with great view ovwrlooking the city, great staff",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Chris",
+  "location": "Austria",
+  "avatar": null,
+  "rating": 4.5,
+  "rating10": 9,
+  "time": "2024-08-26T13:21:01.000Z",
+  "text": "Friendly staff, quick & professional check in, free parking on site, high quality rooms. Luxury spa included in the price",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Anonym",
+  "location": "Slovakia",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2024-07-27T20:47:57.000Z",
+  "text": "Starting from a very friendly and attentive welcome at the reception, throughout cleanliness, wonderful smell, and beautifully decorated rooms, to the super tasty food in the restaurant. It was a great stay, and we even decided to extend it for one more night. That says it all, I guess. Once more, big thanks to all the lovely and attentive staff. Exceptional service!",
+  "images": []
+ },
+ {
+  "source": "booking",
+  "name": "Marcel",
+  "location": "Slovakia",
+  "avatar": null,
+  "rating": 5.0,
+  "rating10": 10,
+  "time": "2024-07-26T19:04:16.000Z",
+  "text": "The hotel is very clean and noble. It was our second visit and we are definitely coming back",
   "images": []
  },
  {
